@@ -1,3 +1,3 @@
-# Deploy App
+# Deployed App
 
 https://todolist-ts-react.netlify.app/
